@@ -1,0 +1,27 @@
+# 📊 Dashboard de Vendas - Excel
+
+## 🎯 Objetivo
+Transformar dados brutos de vendas em um painel visual e interativo, facilitando a análise de desempenho e a tomada de decisões.
+
+## 📁 Arquivos do Projeto
+- `base.xlsx`: base de dados fornecida
+- `dashboard_finalizado.xlsx`: arquivo com o dashboard concluído
+
+## 🧰 Funcionalidades do Dashboard
+- Gráfico de vendas por mês
+- Indicadores de desempenho (Total vendido, Ticket Médio, etc.)
+- Ranking dos produtos mais vendidos
+- Filtro por região, produto e período
+- Layout limpo e visual
+
+## 📸 Capturas de Tela
+Imagens do dashboard final podem ser vistas na pasta `/images`.
+
+## ▶️ Como Usar
+1. Abra o arquivo `dashboard_finalizado.xlsx`
+2. Navegue pelos filtros e observe a dinâmica dos gráficos
+3. Personalize conforme sua necessidade
+
+## 👨‍💻 Autor
+Seu nome aqui – [LinkedIn ou GitHub](https://github.com/seuperfil)
+
