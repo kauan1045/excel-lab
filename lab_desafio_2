@@ -1,0 +1,31 @@
+# 🧾 Ferramenta de Apoio para Imposto de Renda - Excel
+
+## 📌 Objetivo
+Facilitar a organização dos dados necessários para a declaração de Imposto de Renda, com validações, interface intuitiva e resumo automatizado.
+
+## 💡 Funcionalidades
+- Menu de navegação por seções
+- Validações automáticas de dados
+- Links úteis (Receita Federal, IRPF, etc.)
+- Painel de resumo com totais e alertas
+- Interface amigável no Excel
+
+## 🧪 Tecnologias Utilizadas
+- Microsoft Excel (com validações, fórmulas, botões)
+- GitHub para versionamento e documentação
+
+## 🧱 Estrutura da Planilha
+1. **Dashboard**
+2. **Rendimentos**
+3. **Despesas Dedutíveis**
+4. **Bens e Direitos**
+5. **Resumo Final**
+
+## 🖼️ Capturas de Tela
+As imagens da ferramenta podem ser encontradas na pasta `/images`.
+
+## 👨‍💻 Autor
+Seu nome aqui – [LinkedIn ou GitHub](https://github.com/seuperfil)
+
+## 📎 Links úteis
+- [Site da Receita Federal](https://www.gov.br/receitafederal/pt-br)
